@@ -1,13 +1,24 @@
-# x = int (input('Please enter an integer '))
-# if x < 0:
-#     x = 0
-#     print('Negative changed to zero')
-# elif x == 0:
-#     print('Zero')
-# elif x == 1:
-#     print('Single')
-# else:
-#     print('More')
+# If statement
+# x = 7
+# if x == 4:
+#     print("it is four")
+
+# if x < 4:
+#     print("less than four")
+
+# if x > 4:
+#     print("Greater than four")
+
+
+
+
+x = 6
+if x == 4:
+    print('It is four')
+elif x < 4:
+    print('Less than four')
+else:
+    print('Greater than four')
 
 
 
